@@ -11,26 +11,14 @@
             "id": "d2897516051bbb18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Toulmin's Model.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3e264c783692463f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4497b4b29cf19d30",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Toulmin's Model"
             }
           }
         ]
@@ -95,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.8999938964844
   },
   "right": {
     "id": "c7d692255b39ffb4",
@@ -181,6 +169,16 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "2bd4da8607302a9d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -203,6 +201,8 @@
   },
   "active": "d2897516051bbb18",
   "lastOpenFiles": [
+    "Toulmin's Model.md",
+    "ENGT 105",
     "desktop.ini",
     "Welcome.md"
   ]

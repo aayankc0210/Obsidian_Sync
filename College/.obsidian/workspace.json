@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ENGT 105/Toulmin's Model/Qualifier.md",
+                    "file": "ENGT 105/Toulmin's Model/Rebuttal.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Qualifier"
+                  "title": "Rebuttal"
                 }
               },
               {
@@ -44,7 +44,7 @@
             "dimension": 35.546875,
             "children": [
               {
-                "id": "c64f133723d65cbf",
+                "id": "a38f063234626484",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -75,7 +75,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -234,15 +234,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2897516051bbb18",
+  "active": "a38f063234626484",
   "lastOpenFiles": [
+    "ENGT 105/Toulmin's Model/Rebuttal.md",
+    "ENGT 105/Toulmin's Model/OVERVIEW.md",
     "ENGT 105/Toulmin's Model/Backing.md",
     "ENGT 105/Toulmin's Model/Qualifier.md",
     "ENGT 105/Toulmin's Model/Warrant.md",
     "ENGT 105/Toulmin's Model/Claim.md",
     "Untitled.md",
     "ENGT 105/Toulmin's Model/Ground.md",
-    "ENGT 105/Toulmin's Model/OVERVIEW.md",
     "Rebuttal.md",
     "Toulmin's Model.md",
     "ENGT 105/Toulmin's Model",

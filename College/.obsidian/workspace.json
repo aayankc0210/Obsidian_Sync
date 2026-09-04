@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toulmin's Model.md",
+                "file": "ENGT 105/Toulmin's Model/Claim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Toulmin's Model"
+              "title": "Claim"
             }
           }
         ]
@@ -201,7 +201,12 @@
   },
   "active": "d2897516051bbb18",
   "lastOpenFiles": [
+    "ENGT 105/Toulmin's Model/OVERVIEW.md",
+    "ENGT 105/Toulmin's Model/Claim.md",
+    "Rebuttal.md",
     "Toulmin's Model.md",
+    "ENGT 105/Toulmin's Model",
+    "Untitled",
     "ENGT 105",
     "desktop.ini",
     "Welcome.md"

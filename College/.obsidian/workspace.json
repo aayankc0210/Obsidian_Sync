@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGT 105/Toulmin's Model/Claim.md",
+                "file": "ENGT 105/Toulmin's Model/Warrant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claim"
+              "title": "Warrant"
+            }
+          },
+          {
+            "id": "89a20fe64f7adae1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,10 +210,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2897516051bbb18",
+  "active": "89a20fe64f7adae1",
   "lastOpenFiles": [
-    "ENGT 105/Toulmin's Model/OVERVIEW.md",
+    "ENGT 105/Toulmin's Model/Warrant.md",
     "ENGT 105/Toulmin's Model/Claim.md",
+    "Untitled.md",
+    "ENGT 105/Toulmin's Model/Ground.md",
+    "ENGT 105/Toulmin's Model/OVERVIEW.md",
     "Rebuttal.md",
     "Toulmin's Model.md",
     "ENGT 105/Toulmin's Model",
